@@ -5,7 +5,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
 1. 
