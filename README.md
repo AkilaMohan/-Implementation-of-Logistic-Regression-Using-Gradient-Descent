@@ -9,14 +9,23 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Start the program
+
 2. Import the necessary python libraries
+
 3.Read the dataset of Social_Network_Ads
+
 4.Assign X and Y values for the dataset
+
 5.Import StandardScaler for preprocessing of data
+
 6.From sklearn library select the model to perform Logistic Regression
+
 7.Using Gradient descent perform Logistic Regression on the dataset
+
 8.Print the confusion matrix and accuracy
+
 9.Display the data in graph using matplotlib libraries
+
 10.Stop the program
 
 ## Program:
